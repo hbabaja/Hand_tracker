@@ -11,3 +11,6 @@ Necessary libs:
                 
 
 Works on Windows if you change mouseactions.h.
+
+
+Video demonstration on Ubuntu: https://www.dropbox.com/s/oauflhyyl79l31x/zavrsni_hbabaja.mp4
